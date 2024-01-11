@@ -37,6 +37,10 @@ To compile and run Clox programs, follow these steps:
    ./main
    ```
    
+- The Outputs:
+  
+  ![Outputs](Outputs.png)
+  
 ## Additional Resources
 
 - [Crafting Interpreters Book](https://craftinginterpreters.com/): The official website for the book with free online access.
