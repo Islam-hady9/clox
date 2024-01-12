@@ -53,7 +53,7 @@ Special thanks to the authors of the "Crafting Interpreters" book, which served 
 
 ## Questions on Chapters 14 and 15
 
-This [File](Questions/) contains a set of questions related to Chapters 14 and 15 of the [Crafting Interpreters]. These questions are designed to test and enhance understanding of the key concepts covered in these chapters.
+This [File](https://github.com/Islam-hady9/clox/blob/main/Questions_on_Chapters_14_and_15.pdf) contains a set of questions related to Chapters 14 and 15 of the [Crafting Interpreters]. These questions are designed to test and enhance understanding of the key concepts covered in these chapters.
 
 **Contents:**
 - Chapter 14 Questions: [Chunks of Bytecode]
