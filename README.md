@@ -50,3 +50,11 @@ To compile and run Clox programs, follow these steps:
 ## Acknowledgments
 
 Special thanks to the authors of the "Crafting Interpreters" book, which served as a valuable resource in the development of Clox.
+
+## Questions on Chapters 14 and 15
+
+This [File](Questions/) contains a set of questions related to Chapters 14 and 15 of the [Crafting Interpreters]. These questions are designed to test and enhance understanding of the key concepts covered in these chapters.
+
+**Contents:**
+- Chapter 14 Questions: [Chunks of Bytecode]
+- Chapter 15 Questions: [A Virtual Machine]
